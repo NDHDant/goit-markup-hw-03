@@ -1,1 +1,3 @@
-# goit-markup-hw-02
+# goit-markup-hw-03
+
+Тернистий шлях в ІТ
